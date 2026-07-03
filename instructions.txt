@@ -1,0 +1,43 @@
+QUESTION TWO: PRACTICAL WEB DESIGN TASK
+A local agricultural organization called Wakulima Smart Farm wants to establish an online presence to promote modern farming practices and market farm produce.
+Design a simple website homepage using HTML5 that meets the following requirements:
+Part A: Website Structure 
+    1. Display the title "Wakulima Smart Farm". 
+    2. Insert a farm logo named farm_logo.png. 
+    3. Create a navigation menu containing the following links: 
+        ◦ Home 
+        ◦ About Us 
+        ◦ Products 
+        ◦ Contact Us 
+    4. Display a welcome message describing the organization's mission. 
+    5. Insert an image named farm.jpg. 
+    6. Create an ordered list showing: 
+        ◦ Crop Farming 
+        ◦ Livestock Farming 
+        ◦ Irrigation Services 
+        ◦ Agricultural Training 
+    7. Add a hyperlink directing users to an agricultural information website. 
+    8. Add a footer showing: 
+        ◦ Copyright © 2026 
+        ◦ Wakulima Smart Farm 
+Part B: CSS Styling 
+Apply CSS to:
+    1. Set the webpage background color to light green. 
+    2. Center the main heading. 
+    3. Set the navigation menu background color to dark green. 
+    4. Change navigation text color to white. 
+    5. Add a 2px solid black border around images. 
+    6. Set the content width to 80%. 
+    7. Add 15px padding to the content section. 
+    8. Style the footer with a dark green background and white text. 
+
+Question  Two
+The website developer provides the following HTML snippet:
+<a herf="products.html">Products</a>
+
+<img scr="farm.jpg" width="300">
+
+<h1 Wakulima Smart Farm </h1>
+Required
+a) Identify three errors in the code. (3 Marks)
+b) Rewrite the corrected code. (2 Marks)
